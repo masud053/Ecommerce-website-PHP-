@@ -7,13 +7,13 @@ It demonstrates strong web development fundamentals — combining front-end inte
 
 
 ## Features
-- 🔐 Secure Login & Authentication System  
-- 📊 Admin Dashboard with navigation sidebar and top bar  
-- 🧾 Data Forms (Basic, Validation, Wizard-based)  
-- 📋 Interactive Data Tables (sortable, filterable)  
-- 🎨 Responsive UI (Bootstrap, Font Awesome, Google Fonts)  
-- 💡 JavaScript-based dynamic validation and user interaction  
-- 🧩 Modular pages (login, dashboard, forms, tables)  
+- Secure Login & Authentication System  
+- Admin Dashboard with navigation sidebar and top bar  
+- Data Forms (Basic, Validation, Wizard-based)  
+- Interactive Data Tables (sortable, filterable)  
+- Responsive UI (Bootstrap, Font Awesome, Google Fonts)  
+- JavaScript-based dynamic validation and user interaction  
+- Modular pages (login, dashboard, forms, tables)  
 
 
 ## Technologies Used
